@@ -1,0 +1,81 @@
+name,population,Pop. trend,area,status,threats
+Amur Leopard,84,inc,asia,ce,Illegal trade
+Black Rhino,6000,inc,africa,ce,Illegal trade
+Bornean Orangutan,104700,dec,asia,ce,Illegal trade
+Cross River Gorilla,250,dec,africa,ce,hunting
+Eastern Lowland Gorilla,2600,dec,africa,ce,habitat lost
+Hawksbill Turtle,-1,dec,marine,ce,Illegal trade
+Javan Rhino,18,sta,asia,ce,Illegal trade and habitat lost
+Bornean Orangutan,104700,dec,asia,ce,Illegal trade and hunting
+Sumatran Orangutan,13846,dec,asia,ce,Illegal trade and hunting
+Tapanuli Orangutan,800,dec,asia,ce,Illegal trade and hunting
+Saola,750,dec,asia,ce,habitat lost
+Sumatran Elephant,2800,dec,un,ce,habitat lost
+Sumatran Rhino,30,dec,asia,ce,Illegal trade and habitat lost
+Sunda Tiger,400,dec,asia,ce,Illegal trade
+Vaquita,18,dec,marine,ce,hunting
+Western Lowland Gorilla,-1,dec,africa,ce,disease
+Yangtze Finless Porpoise,1800,dec,asia,ce,over fishing(food lost)
+African savanna elephant,-1,dec,africa,en,human conflict
+African Wild Dog,1409,dec,africa,en,hunting
+Asian Elephant,50000,dec,asia,en,habitat lost
+Black-footed Ferret,206,dec,south america,en,habitat lost
+Blue Whale,15000,inc,marine,en,habitat lost
+Bluefin Tuna,-1,inc,marine,en,hunting
+Bonobo,50000,dec,africa,en,hunting  and habitat lost
+Bornean Elephant,1500,dec,africa,en,human conflict
+Chimpanzee,300000,dec,africa,en,Illegal trade
+Fin Whale,1720,dec,marine,en,hunting
+Galápagos Penguin,1200,dec,south america,en,climate change
+Ganges River Dolphin,5000,dec,marine,en,pollution
+Green Turtle,-1,dec,marine,en,pollution
+Hector's Dolphin,7000,dec,marine,en,pollution and human conflict
+Humphead Wrasse,-1,dec,marine,en,hunting
+Indus River Dolphin,1987,inc,marine,en,hunting
+Irrawaddy Dolphin,-1,dec,marine,en,hunting
+Monarch Butterfly,127900000,dec,north america,en,climate change
+Mountain Gorilla,600,inc,africa,en,habitat lost
+North Atlantic Right Whale,250,dec,marine,ce,climate change
+Red Panda,10000,dec,asia,en,hunting
+Galápagos Sea Lions,10600,dec,marine,en,climate change
+Leatherback Turtle,-1,dec,marine,en,Illegal trade and habitat lost
+Sei Whale,50000,inc,marine,en,hunting
+Sri Lankan Elephant,400,dec,asia,en,human conflict
+Tiger,4500,dec,asia,en,habitat lost and human conflict
+Whale Shark,-1,dec,marine,en,hunting
+Bigeye Tuna,-1,dec,marine,vn,hunting
+Black Spider Monkey,-1,dec,south america,vn,habitat lost
+Dugong,896,dec,marine,en,habitat lost
+Giant Panda,1000,inc,asia,vn,habitat lost
+Pinta Giant Tortoise,0,sta,south america,ex,na
+Great White Shark,-1,dec,marine,vn,hunting
+Greater One-Horned Rhino,2200,inc,asia,vn,habitat lost
+Hippopotamus,130000,sta,africa,vn,na
+Leatherback Turtle,-1,dec,marine,vn,habitat lost
+Lion,374,dec,africa,ce,Illegal trade
+Loggerhead Turtle,-1,un,marine,vn,habitat lost
+Marine Iguana,96000,un,south america,vn,climate change
+Olive Ridley Turtle,-1,dec,marine,vn,climate change
+Polar Bear,31000,un,arctic,vn,climate change
+Snow Leopard,3386,dec,asia,vn,Illegal trade
+Southern rockhopper penguin,2500000,dec,marine,vn,na
+Albacore Tuna,-1,dec,marine,nt,na
+Delphinapterus leucas,231,dec,marine,ce,climate change
+Greater Sage-Grouse,150000,dec,north america,nt,na
+Jaguar,-1,dec,south america,nt,Illegle trade
+Mountain Plover,20000,dec,north america,nt,habitat lost
+Plains Bison,20504,sta,north america,nt,habitat lost
+White Rhino,10080,dec,africa,nt,habitat lost
+Yellowfin Tuna,-1,dec,marine,nt,hunting
+Arctic Fox,-1,sta,arctic,lc,hunting
+Arctic Wolf,-1,sta,arctic,lc,climate change
+Bowhead Whale,10000,inc,marine,lc,climate change
+Brown Bear,55000,sta,north america,lc,habitat lost
+Fiordland Bottlenose Dolphin,123,dec,marine,ce,na
+Gray Whale,150,sta,marine,lc,hunting
+Ara ararauna,-1,dec,south america,lc,na
+Narwhal,123000,un,marine,lc,climate change
+Pronghorn,750000,sta,north america,lc,habitat lost
+Skipjack Tuna,-1,dec,marine,lc,hunting
+Swift Fox,-1,sta,north america,lc,human conflict
+Tree Kangaroo,-1,dec,australia,lc,hunting
